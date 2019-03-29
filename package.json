@@ -1,0 +1,14 @@
+{
+  "name": "javascript-typing-game",
+  "version": "1.0.0",
+  "description": "javascript typing game",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
